@@ -1,0 +1,12 @@
+ar\com\codoacodo\controllers\ListadoArticuloController.class
+ar\com\codoacodo\dao\DAO.class
+ar\com\codoacodo23049\App.class
+ar\com\codoacodo\dao\AdministradorDeConexiones.class
+ar\com\codoacodo\dao\impl\MysqlDaoImpl.class
+ar\com\codoacodo\controllers\AltaArticuloController.class
+ar\com\codoacodo23049\Articulo.class
+ar\com\codoacodo\controllers\EliminarController.class
+ar\com\codoacodo\controllers\Response.class
+ar\com\codoacodo23049\Libro.class
+ar\com\codoacodo\controllers\Request.class
+ar\com\codoacodo23049\LocalDate.class
